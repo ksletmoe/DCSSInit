@@ -1,0 +1,6 @@
+tile_cell_pixels = 60
+tile_filter_scaling = false
+bindkey = [.] CMD_WAIT
+bindkey = [s] CMD_CAST_SPELL
+bindkey = [S] CMD_FORCE_CAST_SPELL
+bindkey = [z] CMD_REST
